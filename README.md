@@ -1,8 +1,5 @@
 # Godot Game Template
-<<<<<<< HEAD
 Fork of [Maaack's Godot Game Template](https://github.com/maaack/godot-game-template)
-For Godot 4.6 (4.3+ compatible)
-=======
 For Godot 4.7 (4.3+ compatible)
 >>>>>>> upstream/main
 
